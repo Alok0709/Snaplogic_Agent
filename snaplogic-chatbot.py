@@ -17,7 +17,7 @@ if "chat_history" not in st.session_state:
 
 # Title
 st.title("🤖 Sales Opportunity Chatbot")
-st.markdown("Ask me about sales opportunities in negotiation or in manufacturing organizations.")
+st.markdown("Ask me about SnapLogic Project.")
 
 # Chat input
 user_input = st.text_input("You:", placeholder="e.g., What opportunities are in negotiations?")
