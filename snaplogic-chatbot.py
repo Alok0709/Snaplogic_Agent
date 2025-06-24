@@ -16,7 +16,7 @@ if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
 # Title
-st.title("🤖 Sales Opportunity Chatbot")
+st.title("🤖 SnapLogic Project Chat Bot")
 st.markdown("Ask me about SnapLogic Project.")
 
 # Chat input
