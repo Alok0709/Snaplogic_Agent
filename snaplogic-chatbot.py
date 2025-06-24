@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Set Streamlit page config
-st.set_page_config(page_title="Sales Opportunity Chatbot", layout="centered")
+st.set_page_config(page_title="SnapLogic Project Chat Bot", layout="centered")
 
 # API endpoint and headers
 API_URL = "https://emea.snaplogic.com/api/1/rest/slsched/feed/ConnectFasterInc/snapLogic4snapLogic/Bootcamp_EMEA_June_2025/AgentDriver_Customer_story_Agent_GI_Trig_Task"
